@@ -1,1 +1,46 @@
 
+# Applied Analytics: Data-Driven Decision Making - Readme
+
+## Project Overview
+This project focuses on practical skills for data analysts in a business organization. The assignment involved two main tasks: SQL queries on tables and an analysis of data, concluding with a presentation deck for a Product Manager at Uber.
+
+## Key Contributions
+1. **SQL Queries on Rider's Tables:**
+   - Formulated SQL queries to calculate the average difference between Actual and Predicted ETA for completed trips in specific cities.
+   - Analyzed sign-up success events to determine the percentage of sign-ups resulting in completed trips within a time frame.
+
+2. **Driver's Data Analysis and Presentation :**
+   - Assessed issues in the driver_signup table data, making assumptions for analysis.
+   - Examined the fraction of drivers taking a first trip and their time-to-trip.
+   - Identified factors influencing driver engagement.
+   - Defined key performance metrics and proposed improvements for the Uber app.
+   - Communicated analysis results through a concise Google Slides presentation.
+
+## Technologies Used
+- **SQL:** Applied SQL for querying and analyzing data from Uber's rider and driver tables.
+- **Google Slides:** Created a presentation deck to convey analysis results and recommendations to the Product Manager.
+
+## Key Learnings
+1. **Practical SQL Skills:**
+   - Developed proficiency in writing SQL queries to extract meaningful insights from real-world datasets.
+   - Gained hands-on experience in handling and analyzing Uber's rider and driver data.
+
+2. **Business Analytics and Decision-Making:**
+   - Applied analytics skills to address business questions and provide actionable recommendations.
+   - Learned to think from a Product Manager's perspective, aligning technical analysis with business goals.
+
+3. **Collaboration in Cross-functional Teams:**
+   - Understood the role of a Data Analyst in a cross-functional team, collaborating with software engineers, designers, and other data professionals.
+
+4. **Communication and Presentation:**
+   - Practiced presenting complex technical analyses in a clear and concise manner through a Google Slides presentation.
+   - Enhanced communication skills to convey insights to non-technical stakeholders.
+
+## Takeaways
+- **Technical Proficiency:** Improved SQL skills and gained hands-on experience in real-world analytics scenarios.
+- **Business Alignment:** Developed the ability to connect technical analysis with business objectives.
+- **Collaboration Skills:** Understood the importance of effective collaboration within cross-functional teams.
+- **Presentation Skills:** Enhanced the skill of communicating technical findings to diverse audiences.
+
+## Next Steps
+Continuing to apply and expand upon these analytics skills in real-world scenarios, exploring advanced analytics techniques, and staying updated on industry trends and technologies.
