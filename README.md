@@ -14,7 +14,7 @@ The technical aspects covered in the course include:
 - Data visualization and storytelling through dashboards
 - Managing uncertainty with confidence intervals, p-values, and practical limitations
 - Planning and executing AB tests
-- Analyzing experiment results and identifying common pitfalls
+- Analyzing experiment results, metrics and hypotheses; and identifying common pitfalls
 - Use of popular tools for data storage, SQL, dashboarding, and experimentation platforms
 
 ## Case Studies
