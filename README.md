@@ -1,10 +1,9 @@
 # Applied Analytics: Data-Driven Decision Making
-This Git repository serves as a comprehensive summary of the key technical aspects, assignments, and lessons learned during the 'Applied Analytics' course.
-
-## Technologies: SQL, BigQuery, Looker Studio, Google Slides and Sheets
 
 ## Overview
 The Applied Analytics course equipped me with practical skills essential for becoming autonomous and effective Data Analysts in modern business organizations. From SQL querying to metrics definition, data visualization, and experimentation, allowing me to transform raw data into actionable insights for informed business decisions.
+
+## Technologies: SQL, BigQuery, Looker Studio, Google Slides and Sheets
 
 ## Assignments
 Conducted a series of assignments covering various topics, including SQL fundamentals, advanced SQL techniques, exploratory analyses, dashboarding, metrics, statistical concepts, and experimentation with AB tests.
