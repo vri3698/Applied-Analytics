@@ -1,9 +1,9 @@
 # Applied Analytics: Data-Driven Decision Making
 
 ## Overview
-The Applied Analytics course equipped me with practical skills essential for becoming autonomous and effective Data Analysts in modern business organizations. From SQL querying to metrics definition, data visualization, and experimentation, allowing me to transform raw data into actionable insights for informed business decisions.
+The Applied Analytics course equipped me with practical skills essential for becoming autonomous and effective Data Analysts in modern business organizations, from SQL querying to metrics definition, data visualization, and experimentation, allowing me to transform raw data into actionable insights for informed business decisions.
 
-## Technologies: SQL, BigQuery, Looker Studio, Google Slides and Sheets
+## Technologies: SQL, BigQuery, Looker Studio, Tableau, Google Slides, and Sheets
 
 ## Assignments
 Conducted a series of assignments covering various topics, including SQL fundamentals, advanced SQL techniques, exploratory analyses, dashboarding, metrics, statistical concepts, and experimentation with AB tests.
@@ -13,9 +13,9 @@ The technical aspects covered in the course include:
 - SQL querying and transformation
 - Metrics definition and tracking
 - Data visualization and storytelling through dashboards
-- Managing uncertainty with confidence intervals, p-values, and practical limitations
+- Managing uncertainty with confidence intervals, p-values, statistical significance and practical limitations
 - Planning and executing AB tests
-- Analyzing experiment results, metrics and hypotheses; and identifying common pitfalls
+- Analyzing experiment results, metrics, and hypotheses; and identifying common pitfalls
 - Use of popular tools for data storage, SQL, dashboarding, and experimentation platforms
 
 ## Case Studies
